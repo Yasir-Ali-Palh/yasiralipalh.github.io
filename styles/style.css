@@ -50,3 +50,8 @@ button:hover {
     background-color: white;
     color: black;
 }
+
+a:visited {
+    color: #00e;
+    text-decoration: none;
+}
