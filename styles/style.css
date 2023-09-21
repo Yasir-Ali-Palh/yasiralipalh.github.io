@@ -51,6 +51,6 @@ button:hover {
     color: black;
 }
 
-a:visited {
-    color: #007bff;
+a {
+    color: white;
 }
